@@ -8,7 +8,7 @@
 
 
 
-#The app can replicate the old iTunes experience, specifically its design, but it should give you the ability to jailbreak your device.
+The app can replicate the old iTunes experience, specifically its design, but it should give you the ability to jailbreak your device.
 
 
 
@@ -26,3 +26,12 @@ The program will soon support Android devices other than Apple.
 
 
 My program for additional help is barely blocked from being installed, but in a legal form. Because I don't want to end up in court with some company and what does an Android phone do
+
+
+
+
+
+
+
+
+The program will appear soon. Wait...... until the creator creates his library for controlling your device via Python.
