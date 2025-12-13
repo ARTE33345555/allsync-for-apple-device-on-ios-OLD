@@ -8,15 +8,21 @@
 
 
 
-The app can replicate the old iTunes experience, specifically its design, but it should give you the ability to jailbreak your device.
+#The app can replicate the old iTunes experience, specifically its design, but it should give you the ability to jailbreak your device.
 
 
 
 
-Made in Python. By the way, I tried to use all the magazine's libraries for graphics and connecting your device.
+#Made in Python. By the way, I tried to use all the magazine's libraries for graphics and connecting your device.
+
+#The program will soon support Android devices other than Apple.
 
 
-I'll soon create my own program to jailbreak your device, but wait. It will become my program when I start updating it and building my own jailbreak app to jailbreak your device. I'll also add it so it can be used on Android devices, in addition to Apple, of course.
+#!!!!For people who know the rules, my program can't hack. Confirm that you are running the program to install a jailbreak on your device. If your device breaks, don't blame the creator, blame yourself!!!
 
 
-For people who know the rules, my program can't hack. Confirm that you are running the program to install a jailbreak on your device. If your device breaks, don't blame the creator, blame yourself.
+
+
+
+
+#My program for additional help is barely blocked from being installed, but in a legal form. Because I don't want to end up in court with some company and what does an Android phone do
