@@ -23,10 +23,7 @@ The program will soon support Android devices other than Apple.
 
 
 
-
-
-My program for additional help is barely blocked from being installed, but in a legal form. Because I don't want to end up in court with some company and what does an Android phone do
-
+done !! creator libary on python
 
 
 
